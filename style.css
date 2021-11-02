@@ -1,0 +1,28 @@
+#start-btn
+{
+    width: 45%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid wheat;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+body{
+background-image: url('minion.jpg');
+background-position: center;
+}
+#title{
+    font-size: 60px;
+    font-family: monospace;
+    color: darkblue;
+}
